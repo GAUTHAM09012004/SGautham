@@ -14,9 +14,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GAUTHAM09012004&theme=gotham)](https://git.io/streak-stats)
 
-[!Gautham's GitHub stats]
- 
- (https://github-readme-stats.vercel.app/api?username=GAUTHAM09012004&theme=gotham)]
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAUTHAM09012004&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
